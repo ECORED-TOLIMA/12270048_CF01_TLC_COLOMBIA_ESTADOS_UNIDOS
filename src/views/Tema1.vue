@@ -322,7 +322,7 @@
 
               tr
                 td.text-start 
-                  b Inicio de negociaciones
+                  b Conclusión de la negociación
                 td.text-start Febrero de 2006
                 td.text-start Cierre técnico del texto del acuerdo tras quince rondas de negociación.
 
@@ -455,14 +455,14 @@
     
           .row(numero="2" titulo="Consumidores")
             .col-md-12.mb-4.mb-md-0
-              p Consumidores: los consumidores son las personas y empresas que adquieren bienes y servicios en el mercado. El TLC les genera efectos directos al modificar los precios, la oferta disponible y la competencia entre productos nacionales e importados. 
+              p Los consumidores son las personas y empresas que adquieren bienes y servicios en el mercado. El TLC les genera efectos directos al modificar los precios, la oferta disponible y la competencia entre productos nacionales e importados. 
               p #[b Beneficio:] acceso a tecnología, maquinaria e insumos a mejores precios, lo que amplía la oferta de bienes finales. 
               p #[b Desafío:] mayor competencia para sectores sensibles como lácteos, granos y oleaginosas. 
 
    
           .row(numero="3" titulo="Institucional")
             .col-md-12.mb-4.mb-md-0
-              p Institucional: el ámbito institucional comprende el conjunto de reglas, normas y entidades que regulan el funcionamiento del acuerdo. El TLC fortalece estándares en materia de propiedad intelectual, transparencia y derechos laborales, pero también limita ciertos márgenes de la política interna. 
+              p El ámbito institucional comprende el conjunto de reglas, normas y entidades que regulan el funcionamiento del acuerdo. El TLC fortalece estándares en materia de propiedad intelectual, transparencia y derechos laborales, pero también limita ciertos márgenes de la política interna. 
               p #[b Beneficio:] fortalecimiento de estándares en propiedad intelectual, transparencia y derechos laborales. 
               p #[b Desafío:] limitación del margen de maniobra del Estado para aplicar ciertas políticas industriales y agropecuarias.
 
@@ -470,7 +470,7 @@
 
           .row(numero="4" titulo="Agropecuario")
             .col-md-12.mb-4.mb-md-0
-              p Agropecuario: el sector agropecuario abarca las actividades agrícolas, ganaderas y agroindustriales del país. Sus resultados frente al TLC son heterogéneos: algunos productos han ampliado su acceso al mercado estadounidense, mientras otros enfrentan mayor presión competitiva por las importaciones. 
+              p El sector agropecuario abarca las actividades agrícolas, ganaderas y agroindustriales del país. Sus resultados frente al TLC son heterogéneos: algunos productos han ampliado su acceso al mercado estadounidense, mientras otros enfrentan mayor presión competitiva por las importaciones. 
               p #[b Beneficio:] acceso preferencial para productos como flores, café y frutas tropicales (aguacate Hass, gulupa y uchuva). 
               p #[b Desafío:] presión sobre productores de maíz amarillo, arroz, soya y lácteos debido a importaciones con arancel cero. 
 
@@ -478,7 +478,7 @@
     
           .row(numero="5" titulo="Inversión")
             .col-md-12.mb-4.mb-md-0
-              p Inversión: la inversión hace referencia a los recursos destinados a financiar actividades productivas en el país. El TLC ha contribuido al aumento de la inversión extranjera directa proveniente de Estados Unidos, aunque su distribución sectorial presenta concentraciones que limitan el encadenamiento productivo nacional. 
+              p La inversión hace referencia a los recursos destinados a financiar actividades productivas en el país. El TLC ha contribuido al aumento de la inversión extranjera directa proveniente de Estados Unidos, aunque su distribución sectorial presenta concentraciones que limitan el encadenamiento productivo nacional. 
               p #[b Beneficio:] aumento de la inversión extranjera directa, con cifras destacadas provenientes de Estados Unidos. 
               p #[b Desafío:] concentración de la inversión en sectores extractivos y financieros, con menor encadenamiento productivo. 
 
@@ -486,7 +486,7 @@
     
           .row(numero="6" titulo="Empleo")
             .col-md-12.mb-4.mb-md-0
-              p Empleo: el empleo refleja los efectos del acuerdo sobre la generación y pérdida de puestos de trabajo en los diferentes sectores económicos. Su comportamiento varía según la capacidad de cada actividad para adaptarse a las nuevas condiciones del mercado internacional. 
+              p El empleo refleja los efectos del acuerdo sobre la generación y pérdida de puestos de trabajo en los diferentes sectores económicos. Su comportamiento varía según la capacidad de cada actividad para adaptarse a las nuevas condiciones del mercado internacional. 
               p #[b Beneficio:] generación de empleo formal en sectores exportadores no tradicionales. 
               p #[b Desafío:] pérdida de empleos en sectores agrícolas tradicionales por la competencia de importaciones. 
               

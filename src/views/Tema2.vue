@@ -536,31 +536,31 @@
     
           .row(numero="2" titulo="Protección en el entorno digital")
             .col-md-12.mb-4.mb-md-0
-              p Protección en el entorno digital: el tratado incluye normas específicas sobre la responsabilidad de los proveedores de servicios de internet (PSI) y la implementación de medidas tecnológicas de protección (MTP) para prevenir la piratería en línea.
+              p El tratado incluye normas específicas sobre la responsabilidad de los proveedores de servicios de internet (PSI) y la implementación de medidas tecnológicas de protección (MTP) para prevenir la piratería en línea.
 
           .row(numero="3" titulo="Indemnizaciones preestablecidas")
             .col-md-12.mb-4.mb-md-0
-              p Indemnizaciones preestablecidas: el APC obliga a establecer multas fijas por infracciones de PI, lo que facilita que el titular del derecho obtenga compensación económica sin necesidad de demostrar el daño exacto sufrido.
+              p El APC obliga a establecer multas fijas por infracciones de PI, lo que facilita que el titular del derecho obtenga compensación económica sin necesidad de demostrar el daño exacto sufrido.
 
           .row(numero="4" titulo="Protección de datos de prueba")
             .col-md-12.mb-4.mb-md-0
-              p Protección de datos de prueba: otorga periodos de exclusividad sobre la información de seguridad y eficacia de productos farmacéuticos y agroquímicos, lo que puede retrasar la entrada de medicamentos genéricos al mercado.            
+              p Otorga periodos de exclusividad sobre la información de seguridad y eficacia de productos farmacéuticos y agroquímicos, lo que puede retrasar la entrada de medicamentos genéricos al mercado.            
     
           .row(numero="5" titulo="Nivel de protección elevado")
             .col-md-12.mb-4.mb-md-0
-              P Nivel de protección elevado: busca garantizar que los inventores y creadores dispongan de un monopolio temporal que incentive la inversión y la transferencia de tecnología.           
+              P Busca garantizar que los inventores y creadores dispongan de un monopolio temporal que incentive la inversión y la transferencia de tecnología.           
              
           .row(numero="6" titulo="Territorialidad")
             .col-md-12.mb-4.mb-md-0
-              p Territorialidad: aunque el APC armoniza reglas, los derechos de propiedad intelectual deben registrarse en cada país para ser exigibles. Una marca protegida en Colombia no lo está automáticamente en Estados Unidos.
+              p Aunque el APC armoniza reglas, los derechos de propiedad intelectual deben registrarse en cada país para ser exigibles. Una marca protegida en Colombia no lo está automáticamente en Estados Unidos.
 
           .row(numero="7" titulo="Vinculación con la aduana")
             .col-md-12.mb-4.mb-md-0
-              p Vinculación con la aduana: permite que las autoridades aduaneras actúen de oficio para suspender el despacho de mercancías presuntamente falsificadas o pirateadas.
+              p Permite que las autoridades aduaneras actúen de oficio para suspender el despacho de mercancías presuntamente falsificadas o pirateadas.
 
           .row(numero="8" titulo="Balance de intereses")
             .col-md-12.mb-4.mb-md-0
-              p Balance de intereses: aunque el enfoque privilegia la protección del titular del derecho, el acuerdo reconoce el objetivo de mantener un equilibrio con el interés público y el acceso a la cultura y a la salud. 
+              p Aunque el enfoque privilegia la protección del titular del derecho, el acuerdo reconoce el objetivo de mantener un equilibrio con el interés público y el acceso a la cultura y a la salud. 
 
 
               
@@ -647,7 +647,7 @@
                   p El registro de marca en el mercado estadounidense introduce particularidades que difieren del sistema colombiano y que el exportador debe conocer antes de iniciar operaciones en ese territorio. A diferencia del régimen nacional, en el que el derecho sobre la marca surge principalmente del acto formal de registro, el sistema de Estados Unidos otorga una importancia central al uso efectivo de la marca en el mercado. El capítulo 16 del APC incorporó estas particularidades al marco bilateral mediante los siguientes requisitos específicos que deben cumplirse para que una marca quede protegida y sea exigible ante las autoridades estadounidenses:
 
     .row.justify-content-center.mt-4
-      .col-lg-10
+      .col-lg-12
         .row.justify-content-center.mt-4
           .col-lg-10
             .row.justify-content-center 
@@ -659,23 +659,23 @@
         
                 //-2da pestaña  
                 .row(titulo="Eliminación de requisitos de forma")
-                  p Eliminación de requisitos de forma: el sistema permite registrar marcas no tradicionales, siempre que sean perceptibles y permitan identificar el origen del producto.
+                  p El sistema permite registrar marcas no tradicionales, siempre que sean perceptibles y permitan identificar el origen del producto.
                   p Ejemplo: una empresa puede registrar un sonido o aroma distintivo asociado a su producto como marca.
 
                 
                 //-3ra pestaña
                 .row(titulo="Sistema de oposición")
-                  p Sistema de oposición: establece un periodo en el que terceros pueden oponerse al registro de una marca si consideran que afecta derechos previamente adquiridos.
+                  p Establece un periodo en el que terceros pueden oponerse al registro de una marca si consideran que afecta derechos previamente adquiridos.
                   p Ejemplo: una empresa puede oponerse al registro de una marca similar a la suya en el mercado estadounidense.
 
         
                 //-4ra pestaña
                 .row(titulo="Nombres de dominio en internet")
-                  p Nombres de dominio en internet: regula el registro de dominios para evitar el uso indebido de marcas ajenas en entornos digitales.
+                  p Regula el registro de dominios para evitar el uso indebido de marcas ajenas en entornos digitales.
                   p Ejemplo: no se permite registrar un dominio con una marca reconocida para luego venderlo a su titular.
 
                 .row(titulo="Carga de la prueba y presunción")
-                  p Carga de la prueba y presunción: se presume que quien usa la marca es su titular legítimo, facilitando la defensa legal frente a posibles infracciones.
+                  p Se presume que quien usa la marca es su titular legítimo, facilitando la defensa legal frente a posibles infracciones.
                   p Ejemplo: una empresa puede reclamar legalmente si otra utiliza su marca sin autorización en el mercado. 
 
 
@@ -732,12 +732,12 @@
 
     p.mt-3 El conocimiento de las entidades responsables del control aduanero en cada país resulta indispensable para el operador de comercio exterior, pues son estas autoridades quienes autorizan el despacho de las mercancías, verifican el cumplimiento de las reglas de origen y aplican las preferencias arancelarias del APC. A continuación, se presentan las dos autoridades centrales del proceso y sus principales funciones.
 
-    .row.bg-04
+    .row.bg-04.m-30
       .col-12
         .p-5
-          .row.justify-content-center.mt-4
+          .row.justify-content-center
             .col-lg-10
-              .titulo-sexto.color-acento-contenido.mb-3.mt-4
+              .titulo-sexto.color-acento-contenido.mb-3
                 h5 Tabla 5.  
                 span Autoridades aduaneras competentes en el marco del APC Colombia – EE. UU.
 
@@ -829,32 +829,32 @@
               
           .row(numero="2" titulo="Declaración de exportación (Formulario 600)")
             .col-md-12.mb-4.mb-md-0
-              p Declaración de exportación (Formulario 600): documento mediante el cual el exportador informa a la DIAN la salida definitiva de la mercancía, con la descripción detallada del bien, su clasificación arancelaria, el valor FOB y los datos del destinatario en Estados Unidos.          
+              p Documento mediante el cual el exportador informa a la DIAN la salida definitiva de la mercancía, con la descripción detallada del bien, su clasificación arancelaria, el valor FOB y los datos del destinatario en Estados Unidos.          
     
           .row(numero="3" titulo="Inspección de la DIAN")
             .col-md-12.mb-4.mb-md-0
-              p Inspección de la DIAN: las autoridades realizan verificaciones físicas, documentales o no intrusivas antes del embarque, con base en perfiles de riesgo previamente definidos. El resultado determina si la mercancía puede continuar su tránsito o si requiere ajustes documentales. 
+              p Las autoridades realizan verificaciones físicas, documentales o no intrusivas antes del embarque, con base en perfiles de riesgo previamente definidos. El resultado determina si la mercancía puede continuar su tránsito o si requiere ajustes documentales. 
 
           .row(numero="4" titulo="Embarque y emisión del documento de transporte")
             .col-md-12.mb-4.mb-md-0
-              p Embarque y emisión del documento de transporte: para transporte marítimo se emite el Bill of Lading (B/L); para transporte aéreo, el Air Waybill (AWB). Ambos documentos acreditan el contrato de transporte y son exigidos por el CBP en el proceso de importación. 
+              p Para transporte marítimo se emite el Bill of Lading (B/L); para transporte aéreo, el Air Waybill (AWB). Ambos documentos acreditan el contrato de transporte y son exigidos por el CBP en el proceso de importación. 
               
           .row(numero="5" titulo="Aviso previo (<em>Prior Notice</em>) ante la FDA")
             .col-md-12.mb-4.mb-md-0
-              p Aviso previo (Prior Notice) ante la FDA: obligatorio para alimentos, bebidas, suplementos dietarios, productos farmacéuticos y cosméticos. Debe presentarse con un mínimo de dos horas de anticipación para envíos terrestres y entre cuatro y ocho horas para envíos marítimos. Su omisión puede derivar en la devolución del envío al puerto de origen. 
+              p Obligatorio para alimentos, bebidas, suplementos dietarios, productos farmacéuticos y cosméticos. Debe presentarse con un mínimo de dos horas de anticipación para envíos terrestres y entre cuatro y ocho horas para envíos marítimos. Su omisión puede derivar en la devolución del envío al puerto de origen. 
 
     
           .row(numero="6" titulo="Declaración aduanera de importación en EE. UU. (CBP Form 7501)")
             .col-md-12.mb-4.mb-md-0
-              p Declaración aduanera de importación en EE. UU. (CBP Form 7501): presentada por el importador estadounidense o su broker ante el CBP. Incluye la solicitud de preferencias arancelarias mediante el indicador "CO" cuando la mercancía cumple los requisitos de origen del APC. 
+              p Presentada por el importador estadounidense o su broker ante el CBP. Incluye la solicitud de preferencias arancelarias mediante el indicador "CO" cuando la mercancía cumple los requisitos de origen del APC. 
 
           .row(numero="7" titulo="Inspección y verificación del CBP")
             .col-md-12.mb-4.mb-md-0
-              p Inspección y verificación del CBP: puede ser física, documental o no intrusiva mediante escaneo. La autoridad aduanera está facultada para realizar auditorías posteriores al despacho (post-clearance audit) hasta cinco años después del ingreso de la mercancía.
+              p Puede ser física, documental o no intrusiva mediante escaneo. La autoridad aduanera está facultada para realizar auditorías posteriores al despacho (post-clearance audit) hasta cinco años después del ingreso de la mercancía.
 
           .row(numero="8" titulo="Liberación y entrega")
             .col-md-12.mb-4.mb-md-0
-              p Liberación y entrega: una vez aprobado el ingreso, el CBP libera la mercancía y la pone a disposición del importador para su distribución en el territorio estadounidense. 
+              p Una vez aprobado el ingreso, el CBP libera la mercancía y la pone a disposición del importador para su distribución en el territorio estadounidense. 
               
     p.mt-4 El cumplimiento ordenado de estas etapas garantiza la legalidad y la eficiencia de la operación. Ahora bien, ese proceso no depende únicamente de los trámites del exportador, también exige que los dos países trabajen de manera articulada.
               

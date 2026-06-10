@@ -180,7 +180,7 @@
     
             //-2da pestaña  
             .row(titulo="Caso 2. Camisas de algodón exportadas hacia Estados Unidos")
-              p Caso 2. Camisas de algodón exportadas hacia Estados Unidos: una empresa de confecciones colombiana exporta camisas de algodón cuya tela es importada de Perú. El corte, la costura, el etiquetado y el empaque se realizan íntegramente en Colombia. En este caso, debe verificarse la regla específica del Anexo 4.1 del APC, conocida como yarn forward rule, que exige que el hilo y la tela sean originarios de una de las partes del acuerdo. Si el hilo proviene de Perú y no cumple la condición exigida por el APC, el producto podría no calificar como originario, incluso si el porcentaje de valor agregado en Colombia es elevado.
+              p Una empresa de confecciones colombiana exporta camisas de algodón cuya tela es importada de Perú. El corte, la costura, el etiquetado y el empaque se realizan íntegramente en Colombia. En este caso, debe verificarse la regla específica del Anexo 4.1 del APC, conocida como yarn forward rule, que exige que el hilo y la tela sean originarios de una de las partes del acuerdo. Si el hilo proviene de Perú y no cumple la condición exigida por el APC, el producto podría no calificar como originario, incluso si el porcentaje de valor agregado en Colombia es elevado.
             
 
     .row.justify-content-center.mt-4
@@ -478,17 +478,17 @@
     
           .row(numero="2" titulo="Modificación del término FCA")
             .col-md-12.mb-4.mb-md-0
-              p Modificación del término FCA: este término admite ahora la emisión de un Bill of Lading con anotación "a bordo" cuando el comprador lo requiere para abrir una carta de crédito, facilitando el uso de este Incoterm en operaciones con financiación bancaria.
+              p Este término admite ahora la emisión de un Bill of Lading con anotación "a bordo" cuando el comprador lo requiere para abrir una carta de crédito, facilitando el uso de este Incoterm en operaciones con financiación bancaria.
               
     
           .row(numero="3" titulo="Ampliación de la cobertura del seguro en CIP")
             .col-md-12.mb-4.mb-md-0
-              p Ampliación de la cobertura del seguro en CIP: el término Carriage and Insurance Paid To exige ahora un seguro con cobertura tipo A, la más amplia según las cláusulas del instituto asegurador, mientras que CIF mantiene la cobertura tipo C, que es la mínima.
+              p El término Carriage and Insurance Paid To exige ahora un seguro con cobertura tipo A, la más amplia según las cláusulas del instituto asegurador, mientras que CIF mantiene la cobertura tipo C, que es la mínima.
 
 
           .row(numero="3" titulo="Reorganización de los costos")
             .col-md-12.mb-4.mb-md-0
-              p Reorganización de los costos: las cláusulas A9 y B9 de todos los términos fueron reorganizadas para mayor claridad operativa en la asignación de gastos entre las partes (CCI, 2020).
+              p Las cláusulas A9 y B9 de todos los términos fueron reorganizadas para mayor claridad operativa en la asignación de gastos entre las partes (CCI, 2020).
               
     
       .col-lg-3.d-none.d-lg-block

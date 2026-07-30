@@ -34,7 +34,7 @@
             img(src='@/assets/curso/tema1/3.svg', style="width:128px ").img100.m-auto
         p.text-center
             b Concepto de acuerdo comercial
-        p.text-center.mb-0 Se analiza como un pacto entre países que facilita el intercambio de bienes, servicios e inversiones. 
+        p.mb-0 Se analiza como un pacto entre países que facilita el intercambio de bienes, servicios e inversiones. 
               
       .tarjeta.bg-08.p-4
         .row.justify-content-center.mb-3
@@ -50,7 +50,7 @@
             img(src='@/assets/curso/tema1/5.svg', style="width:128px ").img100.m-auto
         p.text-center
             b Historia del APC
-        p.text-center.mb-0 Se revisa el proceso de negociación, firma y evolución del tratado entre Colombia y Estados Unidos. 
+        p.mb-0 Se revisa el proceso de negociación, firma y evolución del tratado entre Colombia y Estados Unidos. 
               
       .tarjeta.bg-08.p-4
         .row.justify-content-center.mb-3
@@ -58,7 +58,7 @@
             img(src='@/assets/curso/tema1/6.svg', style="width:128px ").img100.m-auto
         p.text-center
             b Vigencia del APC
-        p.text-center.mb-0 Se identifica su entrada en vigor y su aplicación en el comercio bilateral. 
+        p.mb-0 Se identifica su entrada en vigor y su aplicación en el comercio bilateral. 
               
       .tarjeta.bg-08.p-4
         .row.justify-content-center.mb-3
@@ -66,7 +66,7 @@
             img(src='@/assets/curso/tema1/7.svg', style="width:128px ").img100.m-auto
         p.text-center
             b Beneficios del tratado
-        p.text-center.mb-0 Se reconocen las oportunidades generadas para sectores productivos colombianos. 
+        p.mb-0 Se reconocen las oportunidades generadas para sectores productivos colombianos. 
               
       .tarjeta.bg-08.p-4
         .row.justify-content-center.mb-3
@@ -74,7 +74,7 @@
             img(src='@/assets/curso/tema1/8.svg', style="width:128px ").img100.m-auto
         p.text-center
             b Desafíos del tratado
-        p.text-center.mb-0 Se analizan las dificultades y retos que enfrentan algunos sectores económicos. 
+        p.mb-0 Se analizan las dificultades y retos que enfrentan algunos sectores económicos. 
               
       .tarjeta.bg-08.p-4
         .row.justify-content-center.mb-3
@@ -82,7 +82,7 @@
             img(src='@/assets/curso/tema1/9.svg', style="width:128px ").img100.m-auto
         p.text-center
             b Comprensión integral del acuerdo
-        p.text-center.mb-0 Se construye una visión global que facilita interpretar sus normas y su aplicación práctica.  
+        p.mb-0 Se construye una visión global que facilita interpretar sus normas y su aplicación práctica.  
               
 
     .row.align-items-center.mt-4.justify-content-center(data-aos="fade-down")
@@ -216,38 +216,32 @@
 
             tbody
               tr(style="background-color: #FBF7F1")
-                td.text-start 
-                  b Acuerdo de Alcance Parcial (AAP)
+                td.text-start Acuerdo de Alcance Parcial (AAP)
                 td.text-start Reducción arancelaria sobre una lista limitada de productos. No compromete la totalidad del universo arancelario. Es la forma más básica de integración bilateral.
                 td.text-start AAP Colombia–Cuba; AAP Colombia–Nicaragua; convenios de comercio en el marco de ALADI.
 
               tr
-                td.text-start 
-                  b Zona de Libre Comercio (ZLC)
+                td.text-start Zona de Libre Comercio (ZLC)
                 td.text-start Eliminación de aranceles sobre prácticamente la totalidad del comercio entre las partes. Cada país conserva su política arancelaria frente a terceros. El APC Colombia–EE. UU. corresponde a esta etapa, con disciplinas adicionales propias de los acuerdos de nueva generación.
                 td.text-start APC Colombia–EE. UU. (2012); USMCA (2020); TLC Colombia–Canadá (2011); TLC Colombia–UE (2013).
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Unión aduanera
+                td.text-start Unión aduanera
                 td.text-start Además de la desgravación interna, los miembros adoptan un Arancel Externo Común (AEC) frente a terceros países y armonizan instrumentos de defensa comercial.
                 td.text-start Mercosur (con AEC desde 1995); Comunidad Andina (CAN) cuenta con AEC parcial; Unión Aduanera del África Austral (SACU).
 
               tr
-                td.text-start 
-                  b Mercado común
+                td.text-start Mercado común
                 td.text-start Suma a la unión aduanera la libre circulación de personas, capitales y servicios, con armonización regulatoria progresiva.
                 td.text-start CAN permite la libre movilidad con cédula nacional; el Mercosur ha avanzado parcialmente; el modelo más consolidado fue la Comunidad Económica Europea hasta 1993.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Unión económica y monetaria
+                td.text-start Unión económica y monetaria
                 td.text-start Implica la armonización de políticas macroeconómicas, fiscales y, eventualmente, la adopción de una moneda única y un banco central supranacional.
                 td.text-start Unión Europea con la zona euro (1999); 20 países de los 27 miembros utilizan el euro como moneda común.
 
               tr
-                td.text-start 
-                  b Integración total
+                td.text-start Integración total
                 td.text-start Etapa máxima propuesta por Balassa: unificación de políticas económicas, sociales y, en última instancia, políticas. Implica autoridades supranacionales con poder vinculante.
                 td.text-start No existe ejemplo plenamente realizado; la UE se aproxima parcialmente en ámbitos como la política comercial común.
 
@@ -315,44 +309,37 @@
 
             tbody
               tr(style="background-color: #FBF7F1")
-                td.text-start 
-                  b Inicio de negociaciones
+                td.text-start Inicio de negociaciones
                 td.text-start Mayo de 2004
                 td.text-start Primer paso hacia la integración comercial profunda con la mayor economía del mundo. Colombia, Perú y Ecuador inician las rondas conjuntas con Estados Unidos.
 
               tr
-                td.text-start 
-                  b Conclusión de la negociación
+                td.text-start Conclusión de la negociación
                 td.text-start Febrero de 2006
                 td.text-start Cierre técnico del texto del acuerdo tras quince rondas de negociación.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Firma del acuerdo
+                td.text-start Firma del acuerdo
                 td.text-start 22 de noviembre de 2006
                 td.text-start Suscripción oficial del texto en Washington D. C.
 
               tr
-                td.text-start 
-                  b Aprobación en Colombia
+                td.text-start Aprobación en Colombia
                 td.text-start Ley 1143 de 2007 / Sentencia C-750 de 2008
                 td.text-start Aprobación legislativa y declaratoria de exequibilidad por la Corte Constitucional.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Plan de Acción Laboral
+                td.text-start Plan de Acción Laboral
                 td.text-start Abril de 2011
                 td.text-start Compromisos de Colombia en derechos laborales como precondición para la ratificación estadounidense.
 
               tr
-                td.text-start 
-                  b Entrada en vigor
+                td.text-start Entrada en vigor
                 td.text-start 15 de mayo de 2012 (Decreto 993 de 2012)
                 td.text-start Inicio del calendario de desgravación arancelaria.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Arancel base 10 % (IEEPA)
+                td.text-start Arancel base 10 % (IEEPA)
                 td.text-start Abril de 2025
                 td.text-start Imposición de arancel base de 10 % por parte de la administración Trump a importaciones desde Colombia, con coexistencia parcial de las preferencias del APC.
 
@@ -704,13 +691,13 @@
       .col-lg-10
         .row.justify-content-center
           .col-10.col-md-6.col-lg-10.mb-4.mb-md-0(data-aos="fade-right")
-            .tarjeta-avatar
+            .tarjeta-avatar.tarjeta-avatar2
               img(src='@/assets/curso/tema1/36.svg' style="width: 100px").m-auto
               .tarjeta.color-primario.shadow
                 .p-4
-                  .row.justify-content-center.mb-3
+                  .row.justify-content-center
                     .col-auto
-                      .py-2.px-3
+                      .py-2.px-3.text
                         p.mb-0 #[b El Tratado de Libre Comercio ha generado efectos diferenciados en los sectores económicos del país. Mientras la industria y el sector floricultor han fortalecido su competitividad, el ámbito agropecuario enfrenta mayores desafíos por la competencia externa. Su aprovechamiento depende de la capacidad productiva, la articulación institucional y la diversificación económica.]
         
         

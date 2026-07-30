@@ -37,7 +37,7 @@
                   img(src='@/assets/curso/tema2/3.svg', style="width:128px ").img100.m-auto
               p.text-center
                   b Normas de calidad
-              p.text-center.mb-0 Criterios técnicos que aseguran que los productos cumplen con los estándares exigidos por el mercado de destino. 
+              p.mb-0 Criterios técnicos que aseguran que los productos cumplen con los estándares exigidos por el mercado de destino. 
                     
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
@@ -45,7 +45,7 @@
                   img(src='@/assets/curso/tema2/4.svg', style="width:128px ").img100.m-auto
               p.text-center
                   b Certificaciones
-              p.text-center.mb-0 Documentos oficiales que validan el cumplimiento de requisitos técnicos, sanitarios o comerciales. 
+              p.mb-0 Documentos oficiales que validan el cumplimiento de requisitos técnicos, sanitarios o comerciales. 
                     
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
@@ -53,7 +53,7 @@
                   img(src='@/assets/curso/tema2/5.svg', style="width:128px ").img100.m-auto
               p.text-center
                   b Controles fitosanitarios
-              p.text-center.mb-0 Medidas orientadas a proteger la salud humana, animal y vegetal frente a riesgos sanitarios. 
+              p.mb-0 Medidas orientadas a proteger la salud humana, animal y vegetal frente a riesgos sanitarios. 
                     
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
@@ -61,7 +61,7 @@
                   img(src='@/assets/curso/tema1/6.svg', style="width:128px ").img100.m-auto
               p.text-center
                   b Procedimientos administrativos
-              p.text-center.mb-0 Trámites y procesos exigidos por las autoridades para autorizar las operaciones de comercio exterior. 
+              p.mb-0 Trámites y procesos exigidos por las autoridades para autorizar las operaciones de comercio exterior. 
                     
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3
@@ -69,7 +69,7 @@
                   img(src='@/assets/curso/tema2/7.svg', style="width:128px ").img100.m-auto
               p.text-center
                   b Cumplimiento normativo
-              p.text-center.mb-0 Aplicación de las disposiciones legales necesarias para garantizar la legalidad de las operaciones comerciales. 
+              p.mb-0 Aplicación de las disposiciones legales necesarias para garantizar la legalidad de las operaciones comerciales. 
 
           .row.justify-content-center.mt-4
             .col-lg-10
@@ -187,61 +187,52 @@
 
             thead(style="background-color: #D3E7E9")
               tr
-                th Canasta
+                th(style="width: 10% !important") Canasta
                 th Plazo de desgravación
                 th Estado en 2026 y observaciones
 
             tbody
               tr(style="background-color: #FBF7F1")
-                td.text-start 
-                  b A
+                td.text-start  A
                 td.text-start Inmediata
                 td.text-start Aplica desde el 15 de mayo de 2012. Incluye más del 99 % de los productos industriales colombianos. Plenamente vigente.
 
               tr
-                td.text-start 
-                  b B
+                td.text-start  B
                 td.text-start 5 años (lineal)
                 td.text-start Concluyó en 2017. Productos como algunos textiles, calzado y manufacturas livianas.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b BB
+                td.text-start BB
                 td.text-start 7 años
                 td.text-start Concluyó en 2019. Aplicada a determinados productos agroindustriales.
               tr
-                td.text-start 
-                  b C
+                td.text-start  C
                 td.text-start 10 años (lineal)
                 td.text-start Concluyó en 2022. Maquinaria, equipos y bienes de capital seleccionados.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b D
+                td.text-start D
                 td.text-start 15 años (no lineal, con período de gracia)
                 td.text-start Aplica a productos agropecuarios sensibles. La mayoría culmina en 2027 o se encuentra en su tramo final.
 
               tr
-                td.text-start 
-                  b F
+                td.text-start  F
                 td.text-start Exclusión
                 td.text-start Incluye productos sensibles excluidos de la desgravación, como el azúcar de caña sin refinar para Estados Unidos, entre otros.
               
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b H
+                td.text-start H
                 td.text-start 10 años con contingente arancelario
                 td.text-start Incluye productos como lácteos, carne de cerdo y carne de pollo. Para varias subpartidas lácteas, el arancel se reduce a 0 % a partir de 2026.
 
               tr
-                td.text-start 
-                  b K
+                td.text-start  K
                 td.text-start 12-19 años
                 td.text-start Incluye productos como maíz amarillo, arroz, fríjol y oleaginosas. Presenta plazos extensos para mitigar el impacto en sectores sensibles.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b T
+                td.text-start T
                 td.text-start Plazo especial
                 td.text-start Aplica a productos textiles con reglas específicas de origen, como el criterio de “<em>yarn forward rule</em>”.
 
@@ -265,13 +256,13 @@
       .col-lg-10
         .row.justify-content-center
           .col-10.col-md-6.col-lg-10.mb-4.mb-md-0(data-aos="fade-right")
-            .tarjeta-avatar
+            .tarjeta-avatar.tarjeta-avatar2
               img(src='@/assets/curso/tema2/13.svg' style="width: 100px").m-auto
               .tarjeta.color-primario.shadow
                 .p-4
-                  .row.justify-content-center.mb-3
+                  .row.justify-content-center
                     .col-auto
-                      .py-2.px-3
+                      .py-2.px-3.text
                         p.mb-0 #[b Las canastas A, B, BB, C, D, F, H, K y T del APC establecen los plazos y condiciones de desgravación arancelaria, por lo que permiten comprender cómo se aplica la reducción de aranceles de manera progresiva en el comercio bilateral.]
 
 
@@ -375,73 +366,61 @@
 
                   tbody
                     tr(style="background-color: #FBF7F1")
-                      td.text-start 
-                        b APC Colombia – EE. UU. (2012)
+                      td.text-start  APC Colombia – EE. UU. (2012)
                       td.text-start Acuerdo de Promoción Comercial vigente desde el 15 de mayo de 2012, compuesto por 23 capítulos.
                       td.text-start Marco jurídico principal del intercambio comercial bilateral.
 
                     tr
-                      td.text-start 
-                        b Ley 1143 de 2007
+                      td.text-start  Ley 1143 de 2007
                       td.text-start Aprobación del acuerdo por parte del Congreso de Colombia.
                       td.text-start Incorporación del tratado al ordenamiento jurídico interno.
 
                     tr(style="background-color: #FBF7F1")
-                      td.text-start
-                        b Sentencia C-750 de 2008 (Corte Constitucional)
+                      td.text-start Sentencia C-750 de 2008 (Corte Constitucional)
                       td.text-start Declaratoria de exequibilidad del acuerdo.
                       td.text-start Aval constitucional para la entrada en vigor.
                     tr
-                      td.text-start 
-                        b Decreto 993 de 2012
+                      td.text-start  Decreto 993 de 2012
                       td.text-start Aprobación interna del acuerdo en Colombia.
                       td.text-start Instrumento de ratificación y entrada en vigor.
 
                     tr(style="background-color: #FBF7F1")
-                      td.text-start
-                        b Decreto 1165 de 2019
+                      td.text-start Decreto 1165 de 2019
                       td.text-start Régimen aduanero colombiano.
                       td.text-start Regula procedimientos de importación, exportación y tránsito aduanero.
 
                     tr
-                      td.text-start 
-                        b Resolución DIAN 046 de 2019
+                      td.text-start  Resolución DIAN 046 de 2019
                       td.text-start Manual de procedimientos aduaneros.
                       td.text-start Establece formularios, formatos y procedimientos operativos.
                     
                     tr(style="background-color: #FBF7F1")
-                      td.text-start
-                        b Ley 7 de 1991
+                      td.text-start Ley 7 de 1991
                       td.text-start Marco general de comercio exterior de Colombia.
                       td.text-start Define la estructura institucional del sector.
 
                     tr
-                      td.text-start 
-                        b Estatuto Tributario (DUR 1625 de 2016)
+                      td.text-start  Estatuto Tributario (DUR 1625 de 2016)
                       td.text-start Régimen tributario nacional.
                       td.text-start Aplica IVA y otros tributos a las importaciones.
 
                     tr(style="background-color: #FBF7F1")
-                      td.text-start
-                        b <em>Tariff Act of</em> 1930 (EE. UU.)
+                      td.text-start <em>Tariff Act of</em> 1930 (EE. UU.)
                       td.text-start Base del sistema aduanero estadounidense.
                       td.text-start Regula el control fronterizo de mercancías importadas.
 
                     tr
-                      td.text-start 
-                        b Trade Promotion Authority Act
+                      td.text-start  Trade Promotion Authority Act
                       td.text-start Mecanismo de <em>fast-track</em> para la aprobación de tratados comerciales en EE. UU.
                       td.text-start Habilitó la ratificación del APC en el Congreso estadounidense.
 
                     tr(style="background-color: #FBF7F1")
-                      td.text-start
-                        b <em>Customs Modernization Act</em> (1993)
+                      td.text-start <em>Customs Modernization Act</em> (1993)
                       td.text-start Modernización del sistema aduanero estadounidense.
                       td.text-start Marco operativo del CBP para la gestión de importaciones.
 
                     tr
-                      td.text-start 
-                        b Food Safety Modernization Act (FSMA, 2011)
+                      td.text-start  Food Safety Modernization Act (FSMA, 2011)
                       td.text-start Ley de modernización de la inocuidad alimentaria.
                       td.text-start Aplica a alimentos exportados por Colombia a EE. UU.
 
@@ -622,13 +601,13 @@
       .col-lg-10
         .row.justify-content-center
           .col-12.col-md-6.col-lg-10.mb-4.mb-md-0(data-aos="fade-right")
-            .tarjeta-avatar
+            .tarjeta-avatar.tarjeta-avatar2
               img(src='@/assets/curso/tema2/31.svg' style="width: 100px").m-auto
               .tarjeta.color-primario.shadow
                 .p-4
-                  .row.justify-content-center.mb-3
+                  .row.justify-content-center
                     .col-auto
-                      .py-2.px-3
+                      .py-2.px-3.text
                         p.mb-0 #[b El incumplimiento de obligaciones como el registro de marca y patentes, así como el seguimiento de los procedimientos de observancia, puede generar la pérdida de los derechos de propiedad intelectual.]
 
 
@@ -753,37 +732,31 @@
 
                   tbody
                     tr(style="background-color: #FBF7F1")
-                      td.text-start 
-                        b Nombre completo
+                      td.text-start Nombre completo
                       td.text-start Dirección de Impuestos y Aduanas Nacionales.
                       td.text-start <em>U.S. Customs and Border Protection.</em>
 
                     tr
-                      td.text-start 
-                        b Adscripción
+                      td.text-start Adscripción
                       td.text-start Ministerio de Hacienda y Crédito Público.
                       td.text-start <em>Department of Homeland Security.</em>
 
                     tr(style="background-color: #FBF7F1")
-                      td.text-start
-                        b Marco normativo
+                      td.text-start Marco normativo
                       td.text-start Decreto 1165 de 2019 · Resolución DIAN 046 de 2019.
                       td.text-start <em>Tariff Act of 1930 · Customs Modernization Act</em> (1993).
                     tr
-                      td.text-start 
-                        b Plataforma tecnológica
+                      td.text-start Plataforma tecnológica
                       td.text-start Sistema Muisca.
                       td.text-start <em>Automated Commercial Environment</em> (ACE).
 
                     tr(style="background-color: #FBF7F1")
-                      td.text-start
-                        b Función principal
+                      td.text-start Función principal
                       td.text-start Administrar las declaraciones de exportación e importación, recaudar tributos aduaneros y verificar el cumplimiento normativo en Colombia.
                       td.text-start Controlar el ingreso de mercancías al territorio estadounidense, recaudar aranceles y verificar el cumplimiento de las reglas de origen del APC.
 
                     tr
-                      td.text-start 
-                        b Figura de facilitación
+                      td.text-start Figura de facilitación
                       td.text-start Operador Económico Autorizado (OEA).
                       td.text-start <em>Customs-Trade Partnership Against Terrorism</em> (C-TPAT).
                     
@@ -928,23 +901,22 @@
               .tarjeta.bg-1.rounded-0.h-100
                 .tarjeta.bg-white.p-4
                   TarjetaAudio.color-acento-botones.bg-white.mb-3(
-                  texto="Pódcast"
-                  :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+                  texto="Procedimientos y cooperación aduanera en el TLC Colombia con Estados Unidos"
+                  :audio="require('@/assets/componentes/audios/Podcast.mp3')"
                 )
 
-    .row.justify-content-center.mt-2
+    .row.justify-content-center.mt-4
       .col-lg-10
         .row.justify-content-center
-          .col-12.col-md-6.col-lg-10.mb-4.mb-md-0(data-aos="fade-right")
-            .tarjeta-avatar
+          .col-12.col-md-6.col-lg-10.mb-md-0(data-aos="fade-right")
+            .tarjeta-avatar.tarjeta-avatar2
               img(src='@/assets/curso/tema2/46.svg' style="width: 100px").m-auto
               .tarjeta.color-primario.shadow
                 .p-4
-                  .row.justify-content-center.mb-3
+                  .row.justify-content-center
                     .col-auto
-                      .py-2.px-3
+                      .py-2.px-3.text
                         p.mb-0 #[b Gestionar correctamente una exportación exige conocer las normas que la regulan y saber usar las herramientas tecnológicas que las aduanas de ambos países ponen a disposición del exportador.]
-
 
     p.mt-4 En este escenario, el cumplimiento de los requisitos técnicos y regulatorios se complementa con la aplicación de criterios que determinan el origen de las mercancías y las condiciones de negociación internacional. Por ello, resulta pertinente analizar las reglas de origen y los Incoterms como elementos clave para la correcta ejecución de las operaciones comerciales.
 

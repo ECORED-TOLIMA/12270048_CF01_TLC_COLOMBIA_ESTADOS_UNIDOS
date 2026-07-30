@@ -140,31 +140,26 @@
 
             tbody
               tr(style="background-color: #FBF7F1")
-                td.text-start 
-                  b Totalmente obtenido
+                td.text-start  Totalmente obtenido
                 td.text-start Productos que nacen, crecen o se extraen íntegramente en Colombia o en Estados Unidos.
                 td.text-start Café, flores cortadas, carbón, frutas tropicales, banano, aguacate Hass.
 
               tr
-                td.text-start 
-                  b Salto arancelario (CTH/CTSH)
+                td.text-start  Salto arancelario (CTH/CTSH)
                 td.text-start Los insumos importados se transforman de modo que el producto final clasifica en una partida arancelaria distinta.
                 td.text-start Mermelada de mango elaborada en Colombia con frascos de vidrio importados de China y pectina alemana.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Valor de Contenido Regional (VCR)
+                td.text-start Valor de Contenido Regional (VCR)
                 td.text-start Porcentaje de valor agregado en Colombia o Estados Unidos. (35 % <em>build-up to 45 % build-down</em>).
                 td.text-start Confecciones que utilizan tela importada, pero con corte, costura, etiquetado y acabado en Colombia.
               tr
-                td.text-start 
-                  b Reglas específicas por producto
+                td.text-start  Reglas específicas por producto
                 td.text-start Reglas establecidas en el Anexo 4.1 del APC para subpartidas particulares.
                 td.text-start <em>Yarn forward</em> rule para textiles: el hilo debe ser originario de una de las partes.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b De minimis
+                td.text-start De minimis
                 td.text-start Cláusula que permite considerar originario un producto cuando los materiales no originarios representan menos del 10 % del valor ajustado.
                 td.text-start Producto agroindustrial con un aditivo importado que representa menos del 10 % del valor.
 
@@ -232,32 +227,32 @@
             ul.lista-ul--color
               li.d-flex.align-items-start
                 span.icono-img
-                p.mb-0 Datos del exportador o productor: nombre, dirección y número de identificación tributaria de quien emite la certificación. 
+                p.mb-0 #[b Datos del exportador o productor:] nombre, dirección y número de identificación tributaria de quien emite la certificación. 
      
               li.d-flex.align-items-start
                 span.icono-img
-                p.mb-0 Datos del importador: nombre, dirección y datos de contacto del importador en Estados Unidos. 
+                p.mb-0 #[b  Datos del importador:] nombre, dirección y datos de contacto del importador en Estados Unidos. 
 
 
               li.d-flex.align-items-start
                 span.icono-img
-                p.mb-0 Descripción de la mercancía: información suficientemente precisa para identificar el bien en relación con la factura comercial correspondiente. 
+                p.mb-0 #[b  Descripción de la mercancía:] información suficientemente precisa para identificar el bien en relación con la factura comercial correspondiente. 
         
               li.d-flex.align-items-start
                 span.icono-img
-                p.mb-0 Clasificación arancelaria: subpartida arancelaria de la mercancía a seis dígitos del Sistema Armonizado (SA). 
+                p.mb-0 #[b  Clasificación arancelaria:] subpartida arancelaria de la mercancía a seis dígitos del Sistema Armonizado (SA). 
 
               li.d-flex.align-items-start
                 span.icono-img
-                p.mb-0 Criterio de origen aplicable: totalmente obtenido (A), cambio de clasificación arancelaria (B), valor de contenido regional (C) o regla específica por producto (D). 
+                p.mb-0 #[b  Criterio de origen aplicable:] totalmente obtenido (A), cambio de clasificación arancelaria (B), valor de contenido regional (C) o regla específica por producto (D). 
 
               li.d-flex.align-items-start
                 span.icono-img
-                p.mb-0 Período cubierto: en caso de tratarse de una certificación general para múltiples embarques de productos idénticos, el período no puede exceder doce meses. 
+                p.mb-0 #[b  Período cubierto:] en caso de tratarse de una certificación general para múltiples embarques de productos idénticos, el período no puede exceder doce meses. 
 
               li.d-flex.align-items-start
                 span.icono-img
-                p.mb-0 Declaración de cumplimiento: firma autógrafa o digital del exportador o productor, certificando que la mercancía cumple las reglas de origen del APC.
+                p.mb-0 #[b  Declaración de cumplimiento:] firma autógrafa o digital del exportador o productor, certificando que la mercancía cumple las reglas de origen del APC.
 
 
     p.mt-4 La certificación puede redactarse en español o en inglés, aunque se recomienda el formato bilingüe para facilitar los trámites ante el CBP. No requiere sello ni aprobación de la DIAN; únicamente la firma del exportador o productor. 
@@ -349,31 +344,26 @@
 
             tbody
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Etiquetado (FDA y FTC)
+                td.text-start Etiquetado (FDA y FTC)
                 td.text-start Exportador o fabricante.
                 td.text-start Reetiquetado a costo del exportador en el puerto de ingreso, retención de la mercancía o destrucción si el error no es subsanable (FDA, 2024).
               tr
-                td.text-start 
-                  b Origen (APC, capítulo 4)
+                td.text-start  Origen (APC, capítulo 4)
                 td.text-start Exportador, quien emite la autocertificación, e importador, de manera solidaria (USTR, 2012, Art. 4.15).
                 td.text-start Cobro retroactivo del arancel pleno, intereses y multas por fraude aduanero de hasta el 200 % del valor del bien.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Registro sanitario (FDA e INVIMA)
+                td.text-start Registro sanitario (FDA e INVIMA)
                 td.text-start Exportador o productor.
                 td.text-start Retención o destrucción de la carga en el puerto de ingreso; rechazo automático de futuras importaciones del mismo proveedor mediante <em>Import Alert</em> (FDA, 2024).
 
               tr
-                td.text-start 
-                  b Aviso previo (<em>Prior Notice</em>, FDA)
+                td.text-start  Aviso previo (<em>Prior Notice</em>, FDA)
                 td.text-start Exportador o agente de aduanas
                 td.text-start Devolución del envío al puerto de origen y asunción de los costos de flete y almacenamiento por parte del exportador FDA.
 
               tr(style="background-color: #FBF7F1")
-                td.text-start
-                  b Conservación de documentos
+                td.text-start Conservación de documentos
                 td.text-start Exportador y productor.
                 td.text-start Imposibilidad de ejercer defensa en un proceso de verificación y pérdida retroactiva de las preferencias arancelarias obtenidas (USTR, 2012, Art. 4.18).
 
@@ -513,74 +503,63 @@
 
                   thead(style="background-color: #D3E7E9")
                     tr
-                      th Término
+                      th(style="width: 10% !important") Término
                       th Nombre completo
                       th Punto de transferencia de riesgo
 
                   tbody
                     tr(style="background-color: #FBF7F1")
-                      td.text-start
-                        b EXW
+                      td.text-start EXW
                       td.text-start Ex Works (En fábrica)
                       td.text-start En las instalaciones del vendedor en Colombia. Mínima obligación para el vendedor.
 
                     tr
-                      td.text-start
-                        b FCA
+                      td.text-start FCA
                       td.text-start Free Carrier (Libre transportista)
                       td.text-start Al entregar la carga al transportista designado por el comprador, en un lugar acordado en Colombia.
 
                     tr(style="background-color: #FBF7F1")
-                      td.text-start
-                        b CPT
+                      td.text-start CPT
                       td.text-start Carriage Paid To (Transporte pagado hasta)
                       td.text-start Al entregar al primer transportista; el vendedor paga el flete hasta el destino acordado.
 
                     tr
-                      td.text-start
-                        b CIP
+                      td.text-start CIP
                       td.text-start Carriage and Insurance Paid To (Transporte y seguro pagados hasta)
                       td.text-start Igual que CPT, pero el vendedor paga seguro de carga con cobertura tipo A.
 
                     tr(style="background-color: #FBF7F1")
-                      td.text-start
-                        b DAP
+                      td.text-start DAP
                       td.text-start Delivered at Place (Entregado en lugar)
                       td.text-start En el lugar acordado en EE. UU., sin descarga ni pago de impuestos.
 
                     tr
-                      td.text-start
-                        b <em>DPU</em>
+                      td.text-start <em>DPU</em>
                       td.text-start Delivered at Place Unloaded (Entregado en lugar con descarga)
                       td.text-start En el lugar acordado, incluida la descarga (sustituye al antiguo DAT).
 
                     tr(style="background-color: #FBF7F1")
-                      td.text-start
-                        b DDP
+                      td.text-start DDP
                       td.text-start Delivered Duty Paid (Entregado con derechos pagados)
                       td.text-start Máxima responsabilidad del vendedor: flete, seguro e impuestos en EE. UU.
 
                     tr
-                      td.text-start
-                        b FAS
+                      td.text-start FAS
                       td.text-start Free Alongside Ship (Libre al costado del buque)
                       td.text-start Al costado del buque en el puerto de embarque (uso exclusivo marítimo).
 
                     tr(style="background-color: #FBF7F1")
-                      td.text-start
-                        b FOB
+                      td.text-start FOB
                       td.text-start Free On Board (Libre a bordo)
                       td.text-start Al colocar la mercancía a bordo del buque en el puerto colombiano. Término más usado en exportaciones marítimas colombianas.
 
                     tr
-                      td.text-start
-                        b CFR
+                      td.text-start CFR
                       td.text-start Cost and Freight (Costo y flete)
                       td.text-start Riesgo del comprador desde el embarque en Colombia; el vendedor paga el flete marítimo.
 
                     tr(style="background-color: #FBF7F1")
-                      td.text-start
-                        b CIF
+                      td.text-start CIF
                       td.text-start Cost, Insurance and Freight (Costo, seguro y flete)
                       td.text-start Igual que CFR, pero el vendedor paga el seguro de la mercancía con cobertura mínima (tipo C).
 
@@ -616,8 +595,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 #[b Exportadores que inician operaciones]
-                    p Los términos FOB o FCA resultan los más adecuados, pues limitan la responsabilidad del vendedor al territorio colombiano y reducen la exposición a riesgos en el tránsito internacional.
+                    p #[b Exportadores que inician operaciones]
+                    p.text-left Los términos FOB o FCA resultan los más adecuados, pues limitan la responsabilidad del vendedor al territorio colombiano y reducen la exposición a riesgos en el tránsito internacional.
     
     
       .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="fade-right")
@@ -628,8 +607,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 #[b Exportadores con experiencia y volúmenes consolidados]
-                    p Los términos CFR, CIF, CPT y CIP permiten ofrecer un servicio logístico integrado al comprador y mejorar la competitividad de la oferta exportadora.
+                    p #[b Exportadores con experiencia y volúmenes consolidados]
+                    p.text-left Los términos CFR, CIF, CPT y CIP permiten ofrecer un servicio logístico integrado al comprador y mejorar la competitividad de la oferta exportadora.
     
     
       .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="fade-right")
@@ -640,8 +619,8 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 #[b Exportadores con presencia en Estados Unidos]
-                    p Los términos DAP, DPU y DDP solo deben emplearse cuando el exportador dispone de un agente o filial en ese territorio, dado el nivel de responsabilidades logísticas, aduaneras y tributarias que conllevan.
+                    p #[b Exportadores con presencia en Estados Unidos]
+                    p.text-left Los términos DAP, DPU y DDP solo deben emplearse cuando el exportador dispone de un agente o filial en ese territorio, dado el nivel de responsabilidades logísticas, aduaneras y tributarias que conllevan.
     
 
     p.mt-4 En todos los casos, el contrato de compraventa debe especificar con precisión el lugar geográfico de entrega y la versión 2020 de los Incoterms de la Cámara de Comercio Internacional, con el fin de evitar interpretaciones divergentes que puedan derivar en disputas legales entre las partes.

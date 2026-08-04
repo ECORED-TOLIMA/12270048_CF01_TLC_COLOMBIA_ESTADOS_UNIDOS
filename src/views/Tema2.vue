@@ -37,7 +37,7 @@
                   img(src='@/assets/curso/tema2/3.svg', style="width:128px ").img100.m-auto
               p.text-center
                   b Normas de calidad
-              p.mb-0 Criterios técnicos que aseguran que los productos cumplen con los estándares exigidos por el mercado de destino. 
+              p.mb-5 Criterios técnicos que aseguran que los productos cumplen con los estándares exigidos por el mercado de destino. 
                     
             .tarjeta.bg-08.p-4
               .row.justify-content-center.mb-3

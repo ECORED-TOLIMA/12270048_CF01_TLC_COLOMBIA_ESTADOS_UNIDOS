@@ -34,7 +34,7 @@
             img(src='@/assets/curso/tema1/3.svg', style="width:128px ").img100.m-auto
         p.text-center
             b Concepto de acuerdo comercial
-        p.mb-0 Se analiza como un pacto entre países que facilita el intercambio de bienes, servicios e inversiones. 
+        p.mb-5 Se analiza como un pacto entre países que facilita el intercambio de bienes, servicios e inversiones. 
               
       .tarjeta.bg-08.p-4
         .row.justify-content-center.mb-3

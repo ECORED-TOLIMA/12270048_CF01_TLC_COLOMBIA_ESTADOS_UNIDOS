@@ -20,7 +20,7 @@ export default {
       tema: 'El reto del exportador',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> verificar la comprensión de los conceptos fundamentales del APC Colombia con Estados Unidos, las reglas de origen y los Incoterms 2020.',
+        '<b> Objetivo:</b> verificar la comprensión del marco normativo del TLC entre Colombia y Estados Unidos, así como su aplicación en la práctica exportadora.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',

@@ -670,7 +670,7 @@
             .row.align-items-center
               .col-lg-12
                 .cajon.color2.p-4
-                  p.text-center El Acuerdo de Promoción Comercial (APC) entre Colombia y Estados Unidos establece un marco normativo integral que regula aspectos clave del comercio bilateral, como el acceso a mercados, las reglas de origen, la facilitación del comercio y las medidas sanitarias y técnicas. Estos componentes permiten definir las condiciones bajo las cuales se desarrollan las operaciones comerciales, garantizando transparencia, seguridad jurídica y cumplimiento de estándares internacionales.
+                  p El Acuerdo de Promoción Comercial (APC) entre Colombia y Estados Unidos establece un marco normativo integral que regula aspectos clave del comercio bilateral, como el acceso a mercados, las reglas de origen, la facilitación del comercio y las medidas sanitarias y técnicas. Estos componentes permiten definir las condiciones bajo las cuales se desarrollan las operaciones comerciales, garantizando transparencia, seguridad jurídica y cumplimiento de estándares internacionales.
 
 
     .row.align-items-center.mt-4.justify-content-center(data-aos="fade-down")

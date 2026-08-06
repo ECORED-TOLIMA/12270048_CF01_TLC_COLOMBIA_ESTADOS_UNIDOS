@@ -42,7 +42,7 @@
             img(src='@/assets/curso/tema1/4.svg', style="width:128px ").img100.m-auto
         p.text-center
             b Tipología de acuerdos comerciales
-        p.text-center.mb-0 Se clasifican según el nivel de integración económica entre los países participantes. 
+        p.mb-0 Se clasifican según el nivel de integración económica entre los países participantes. 
               
       .tarjeta.bg-08.p-4
         .row.justify-content-center.mb-3

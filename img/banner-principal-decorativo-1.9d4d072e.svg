@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="63.508" viewBox="0 0 55 63.508">
+  <g id="Grupo_1180014" data-name="Grupo 1180014" transform="translate(-870.158 -240)">
+    <g id="Grupo_1179954" data-name="Grupo 1179954" transform="translate(870.158 240)">
+      <path id="Trazado_1001939" data-name="Trazado 1001939" d="M9.172,23.277V48.643L31.14,61.326,53.107,48.643V23.277L31.14,10.594Z" transform="translate(-3.639 -4.204)" fill="#a2cbcf"/>
+      <path id="Trazado_1001940" data-name="Trazado 1001940" d="M2.986,45.91V17.6L27.5,3.45,52.014,17.6V45.91L27.5,60.063ZM27.5,0,0,15.877V47.632L27.5,63.508,55,47.631V15.877Z" fill="#6e9ca2"/>
+    </g>
+    <g id="avion" transform="translate(885.958 262.252)">
+      <path id="Trazado_1015663" data-name="Trazado 1015663" d="M21.172,18.354l-4.95-1.507a1.4,1.4,0,0,0-1.94-1.891,9.948,9.948,0,0,0-1.045.982l-2.874-.875L8.79,16.637l8.871,5.228Z" transform="translate(-8.425 -14.15)" fill="#1f4348"/>
+      <path id="Trazado_1015664" data-name="Trazado 1015664" d="M21.23,0a5.45,5.45,0,0,0-4.064,1.542L4.738,13.972.8,14.056l-.8.8L4.536,16.7l1.842,4.536.8-.8.084-3.939L19.688,4.066A5.45,5.45,0,0,0,21.23,0Z" transform="translate(0 0)" fill="#1f4348"/>
+      <path id="Trazado_1015665" data-name="Trazado 1015665" d="M0,0H2.757V1.244H0Z" transform="translate(0.009 8.891) rotate(-45)" fill="#1f4348"/>
+      <path id="Trazado_1015666" data-name="Trazado 1015666" d="M0,0H2.757V1.244H0Z" transform="translate(11.458 20.342) rotate(-45)" fill="#1f4348"/>
+      <path id="Trazado_1015667" data-name="Trazado 1015667" d="M0,0H2.125V1.244H0Z" transform="translate(3.15 10.051) rotate(-45)" fill="#1f4348"/>
+      <path id="Trazado_1015668" data-name="Trazado 1015668" d="M0,0H2.125V1.244H0Z" transform="translate(10.298 17.2) rotate(-45)" fill="#1f4348"/>
+      <path id="Trazado_1015669" data-name="Trazado 1015669" d="M332.247,209.527a1.406,1.406,0,0,0-1.289.038l-1.507-4.95-3.511,3.511L331.168,217l1.573-1.573-.875-2.874a10,10,0,0,0,.982-1.045h0A1.409,1.409,0,0,0,332.247,209.527Z" transform="translate(-312.422 -196.129)" fill="#1f4348"/>
+    </g>
+  </g>
+</svg>
